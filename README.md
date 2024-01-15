@@ -1,20 +1,20 @@
-# FAST API App
+# FastAPI App
 
-A simple example for FAST API application using docker
+A simple example for FastAPI application using docker
 
 ## 💻 Project setup
 
 Start by cloning or downloading this repository
 
 ```bash
-git clone https://github.com/ndpooja/FaastAPI_app.git
+git clone https://github.com/ndpooja/FastAPI_app.git
 ```
 ## To run the project
 Open docker desktop
 
 for building image
 ```bash
-cd FaastAPI_app
+cd FastAPI_app
 docker build -t my_fastapi_app .
 ```
 
